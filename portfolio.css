@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap;
+}
+
+.header {
+    width: 100%;
+}
+
+.logo {
+    left: 0px;
+}
+
+.name {
+    right: 0px;
+}
+
+.line {
+    color: #000000;
+}
